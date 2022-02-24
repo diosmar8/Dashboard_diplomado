@@ -1,6 +1,4 @@
-APP STREAMLIT - VIOLENCIA INTRAFAMILIAR EN COLOMBIA
+APP STREAMLIT - HOMICIDIOS EN COLOMBIA
 __________________________________________________________________
-
-App diseñada para visualizar los casos de violencia intrafamiliar en Colombia desde el año 2010 hasta el año 2021
-
-creamos un entorno virtual en python para ello instalamos virtualenv
+ 
+Esta App fue diseñada para visualizar los casos de homicidios ocurridos en Colombia comprendidos entre los años 2010 hasta 2021.
