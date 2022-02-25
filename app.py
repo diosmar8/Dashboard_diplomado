@@ -1,5 +1,6 @@
 from ast import If
 import streamlit as st 
+import requests
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
