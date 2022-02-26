@@ -90,7 +90,7 @@ else:
 
 st.sidebar.write("------")
 selecmes= st.sidebar.selectbox(label='SELECCIONE UN MES', options=['todos','Enero','Febrero','Marzo',
-'Abrir','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'])
+'Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'])
 
 if(selecmes=='todos'):
     rango_mes=rango_anos
