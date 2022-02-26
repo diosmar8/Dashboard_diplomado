@@ -9,5 +9,5 @@ font='monospace'
 headless = true
 enableCORS=false
 enableXsrfProtection=false
-port = $POST
+port = $PORT
 " > ~/.streamlit/config.toml
